@@ -1,0 +1,11 @@
+/* D:\dummy\dummy_website\Krishi-Sathi-app\src\index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can keep your custom CSS below the Tailwind directives */
+body {
+  margin: 0;
+  /* Add any other global styles you might want here */
+}
